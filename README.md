@@ -1,9 +1,10 @@
 # Jack Tobia
 ### About Me
-I am Jack Tobia, a Senior at Tufts University majoring in Computer Science and Mathematics.
-Passionate about software engineering, I thrive in challenging environments, with a drive
-to create innovative solutions and tackle complex problems through code. My long-term goal
-is to learn and apply my skills in real-world scenarios and to bring about positive change.
+I am Jack Tobia, a Software Engineer with a BS in Computer Science and Mathematics from
+Tufts University. Passionate about software engineering, I thrive in challenging
+environments, with a drive to create innovative solutions and tackle complex problems
+through code. My long-term goal is to learn and apply my skills in real-world scenarios and
+to bring about positive change.
 
 ### Projects
 #### Project 1: Monty Hall Problem
@@ -17,7 +18,7 @@ trying to guess which door has the car behind it. In the simulation mode, you ca
 number of simulated games you want to run, and it will return statistics for four different
 strategies, showing which ones worked best in that given number of simulations.
 
-#### Project 2: Minesweeper (IN PROGRESS)
+#### Project 2: Minesweeper
 Description: A C++ program that gives you a fun game of minesweeper in your terminal.
 
 ### Skills
